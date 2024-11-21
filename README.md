@@ -43,5 +43,6 @@ I aim to deepen my expertise in **Data Analysis** and **Cybersecurity**, working
 ---
 
 ## 📫 Let's Connect  
-- [Email](mailto:sreejakallu11@gmail.com)  
+- 📧 [Email me](mailto:sreejakallu11@gmail.com)
+
 
