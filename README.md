@@ -20,8 +20,7 @@ I’m a Master’s student in Computer Science with a strong passion for **Data 
   - Eye tracking to move the cursor based on gaze direction.  
   - Winking for left/right-click functionality.  
   - Squinting to enable or disable scrolling.  
-- **Outcome**: Developed a low-cost, hardware-independent solution using webcam-based tracking, improving accessibility for people with disabilities.  
-
+- **Outcome**: Developed a low-cost, hardware-independent solution using webcam-based tracking, improving accessibility for people with disabilities.
 
 ---
 
