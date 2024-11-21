@@ -22,6 +22,8 @@ I’m a Master’s student in Computer Science with a strong passion for **Data 
   - Squinting to enable or disable scrolling.  
 - **Outcome**: Developed a low-cost, hardware-independent solution using webcam-based tracking, improving accessibility for people with disabilities.
 
+ 📄 - 📄 [Research Paper](./OCULAR%20MOUSE%20RESEARCH%20PAPER%20.pdf)
+
 ---
 
 ### 2. **Remote Patient Monitoring and Telemedicine Platform**  
